@@ -8,7 +8,7 @@
 ## *Liner Regression 2*
 ## *Sales*
 ### I analysed the Sales of an Eletronic Store
-### First I wanna show you the slights diference between the same graphics ploted using diferents library
+### First I wanna show you the remarkable diference between the same graphics ploted using diferents library
 ### The first correspond to a plot using plotly and the one bellow is using matplotlib. You can see that the data are more organized in the first picture
 ![WhatsApp Image 2024-05-14 at 11 37 57 AM](https://github.com/mandyyy25/PYTHON/assets/161378989/940a9993-e80a-4d64-81d3-162767cc0954)
 ![vendas por mes mat](https://github.com/mandyyy25/PYTHON/assets/161378989/93ea5f0c-0016-4a01-9aa5-8c0ff6551b60)
