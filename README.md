@@ -4,9 +4,21 @@
 ### I made a Machine Learning Model in the "Linear Regression" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
 ##
 # Projects:
-## Linear Regression 
-## Liner Regression 2
+## *Linear Regression*
+## *Liner Regression 2*
 ## *Sales*
+### I analysed the Sales of an Eletronic Store
+### First I wanna show you the slights diference between the same graphics ploted using diferents library
+### The first correspond to a plot using plotly and the one bellow is using matplotlib. You can see that the data are more organized in the first picture
+![WhatsApp Image 2024-05-14 at 11 37 57 AM](https://github.com/mandyyy25/PYTHON/assets/161378989/940a9993-e80a-4d64-81d3-162767cc0954)
+
+### Here a the code we use to plot matplotlid and bellow using less lines using plotly
+
+
+![WhatsApp Image 2024-05-14 at 11 37 32 AM](https://github.com/mandyyy25/PYTHON/assets/161378989/a32543b3-02cc-48d3-9fbb-696c23b7017d)
+![categoria matplot](https://github.com/mandyyy25/PYTHON/assets/161378989/d49fa506-071c-4bed-879a-4d2cee15bb9f)
+
+
 ## *House Rent*
 ### I analised the rent price in two citys: Porto and Barcelona
 ### Bellow, theres a histogram that I plot counting tha number of houses with tha specific rent. We can see that Barcelona offers a great amount of options from lower to larger price rent.
