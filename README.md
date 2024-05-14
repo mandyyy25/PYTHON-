@@ -8,6 +8,9 @@
 ## Liner Regression 2
 ## *Sales*
 ## *House Rent*
+### I analised the rent price in two citys: Porto and Barcelona
+### Bellow, theres a histogram that I plot counting tha number of houses with tha specific rent. We can see that Barcelona offers a great amount of options from lower to larger price rent.
+![house rent](https://github.com/mandyyy25/PYTHON/assets/161378989/0cda72bb-ce01-4723-8417-b63cad879b58)
 ## Business Premises
  ### *SALES*
  I had to stablish some changes in the databases due to an error in the data collection. 
