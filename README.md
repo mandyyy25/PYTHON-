@@ -21,6 +21,7 @@
 ### Here is the code we use to plot matplotlid and bellow it using less lines with plotly
 ![WhatsApp Image 2024-05-14 at 11 44 36 AM](https://github.com/mandyyy25/PYTHON/assets/161378989/853301e8-716d-45eb-813b-b0007e36f645)
 ![WhatsApp Image 2024-05-14 at 11 44 05 AM](https://github.com/mandyyy25/PYTHON/assets/161378989/0e23f258-9afe-4b40-bd5c-992dff33f231)
+##
 ## *House Rent*
 ### I analysed the rent price in two citys: Porto and Barcelona
 ### Bellow, there's a histogram that I plot counting tha number of houses with tha specific rent. We can see that Barcelona offers a great amount of options from lower to larger price rent.
