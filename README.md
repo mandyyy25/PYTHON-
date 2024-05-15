@@ -3,7 +3,7 @@
 ### So, This reprository it's to save and show some projects of data analysis I created using the colab ide and the python language. I want you to you to feel the right to give your feedback whether it relays on positive or negative (I'm willing to take any assessment as an opportunitie to get better more and more). You can see more details about how the analyses proceded opening the notebooks. 💃 
 ### I made a Machine Learning Model in the "Linear Regression" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
 ##
-# PREVIEW:
+# A PREVIEW OF WHAT YOU WILL FIND: 
 ## *Linear Regression*
 ### Here I ploted the model along with the real answer and you can see that the model variable (Green) is realy close to the real one (Blue)
 ![download](https://github.com/mandyyy25/PYTHON-/assets/161378989/52e43540-e936-4947-8b9b-daab34e095ed)
