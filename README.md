@@ -5,7 +5,7 @@
 ##
 # PREVIEW:
 ## *Linear Regression*
-### Here I ploted the model along with the real answer and you can see that the model variable is realy close to the real one
+### Here I ploted the model along with the real answer and you can see that the model variable (Green) is realy close to the real one (Blue)
 ![download](https://github.com/mandyyy25/PYTHON-/assets/161378989/52e43540-e936-4947-8b9b-daab34e095ed)
 ## *Liner Regression 2*
 ## *Sales*
