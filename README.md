@@ -1,7 +1,7 @@
 # PYTHON 🐍
 
 ### So, This reprository it's to save and show some projects of data analysis I created using the colab ide and the python language.  You can see more details about how the analyses proceded and the libraries used, opening the notebooks. 💃 
-### I made 3 Machine Learning Model in the "Linear Regression", "Deep learning" and "reinforcement learning" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
+### I made 4 Machine Learning Model in the "Linear Regression", "Deep learning" and "reinforcement learning" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
 ##
 ## A PREVIEW OF WHAT YOU WILL FIND: 
 ### Deep Learning
