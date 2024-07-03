@@ -1,11 +1,11 @@
 # PYTHON 🐍
 
-### So, This reprository it's to save and show some projects of data analysis I created using the colab ide and the python language.  You can see more details about how the analyses proceded and the libraries used, opening the notebooks. 💃 
+### This reprository it's to save and show some projects of data analysis I created using the colab ide and the python language.  You can see more details about how the analyses proceded and the libraries used, opening the notebooks. 💃 
 ### I made 4 Machine Learning Model in the "Linear Regression", "Deep learning" and "reinforcement learning" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
 ##
 ## A PREVIEW OF WHAT YOU WILL FIND: 
 ### Deep Learning
-#### This is a classification algorithm that predicts the class referring to the image we send. I trained the model to learn the caracters for 10 classes ('airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck') then I send a picture of a car and asked that what class the photo belongs.
+#### This is a classification algorithm that predicts the class referring to the image we send. I trained the model to learn the caracters for 10 classes ('airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck') then I send a picture of a car and asked which class the photo belongs.
 ##
 ### Reinforcement Learning
 #### This is a model that can buy, sells or keep the stock, based on stock price data. 
