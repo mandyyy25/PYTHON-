@@ -9,6 +9,7 @@
 ##
 ### Reinforcement Learning
 #### This is a model that can buy, sells or keep the stock, based on stock price data. 
+##
 ### *Linear Regression*
 #### Well, in this work I made a machine learning model with linear regression that predicts the Price of a house based on some imputs, like Population, quantity of rooms ans bathrooms, house area and house age.
 #### Below here, there's the model plot along with the real answer and you can see that the model variable (Green) is realy close to the real one (Blue)
