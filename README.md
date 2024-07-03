@@ -1,9 +1,14 @@
 # PYTHON 🐍
 
 ### So, This reprository it's to save and show some projects of data analysis I created using the colab ide and the python language.  You can see more details about how the analyses proceded and the libraries used, opening the notebooks. 💃 
-### I made a Machine Learning Model in the "Linear Regression" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
+### I made 3 Machine Learning Model in the "Linear Regression", "Deep learning" and "reinforcement learning" projects, a Business Analysis in the notebook "Sales" and analysed the Financial Cost in the "House Rent".
 ##
 ## A PREVIEW OF WHAT YOU WILL FIND: 
+### Deep Learning
+#### This is a classification algorithm that predicts the class referring to the image we send. I trained the model to learn the caracters for 10 classes ('airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck') then I send a picture of a car and asked that what class the photo belongs.
+##
+### Reinforcement Learning
+#### This is a model that can buy, sells or keep the stock, based on stock price data. 
 ### *Linear Regression*
 #### Well, in this work I made a machine learning model with linear regression that predicts the Price of a house based on some imputs, like Population, quantity of rooms ans bathrooms, house area and house age.
 #### Below here, there's the model plot along with the real answer and you can see that the model variable (Green) is realy close to the real one (Blue)
